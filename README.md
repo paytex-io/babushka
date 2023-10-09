@@ -2,7 +2,7 @@
 
 Simple and secure savings account.
 
-This is a yiel aggregator smart contract pool.
+This is a yield aggregator smart contract pool.
 
 ## Architecture
 
